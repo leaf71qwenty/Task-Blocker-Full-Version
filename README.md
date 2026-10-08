@@ -235,4 +235,4 @@ This repository serves as the official landing page for Task Blocker. The softwa
 **Get the most recent version of Task Blocker today!**
 
 ---
-**Last updated:** 2026-10-07 20:26:19 UTC
+**Last updated:** 2026-10-08 00:45:15 UTC
